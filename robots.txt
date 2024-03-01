@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://gmdsantana.com/sitemap.xml
